@@ -4,7 +4,7 @@
 
 ## 👥 Thành viên nhóm & Phân công vai trò
 
-**Lớp:** 3B · **Phòng:** E403 · **Cụm:** Zone 2 · **Track:** C. Lesson Studio
+**Lớp:** 3B · **Phòng:** E403 · **Cụm:** Zone 2 · **Track:** C1. Knowledge-to-Lesson — Graph tri thức và bài học thích ứng
 
 | Họ và Tên | Mã Học Viên | Vai trò chính | Phần việc đảm nhiệm trong dự án |
 |---|---|---|---|
