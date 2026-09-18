@@ -10,3 +10,21 @@
 | 7 | Phân công có tên | - Nguyễn Đức Anh Quân: Đọc transcript/slide → chunk → extract concept/relationship → lưu graph → provenance → generate quiz<br> - Dương Đức Vương: API → giao diện chọn tài liệu → hiển thị concept/quiz/source → approve/reject → demo flow|
 
 ---
+
+```mermaid
+flowchart TD
+    Start([Bắt đầu: Học viên mở hệ thống]) --> Step1[Màn hình 1: Làm Quiz chẩn đoán 5 câu]
+    Step1 --> Action1[Học viên chọn đáp án & bấm Nộp bài]
+    
+    Action1 --> Step2[Màn hình 2: Bảng kết quả & Chẩn đoán]
+    Step2 -.-> AI_Decision{"AI Quyết định (CP3 sẽ nối thật):<br/>1. Map câu sai -> Concept A<br/>2. Tra Graph -> Concept B (tiên quyết)<br/>3. Tìm Slide nguồn"}
+    
+    AI_Decision --> Step3[Màn hình 3: Lộ trình bù đắp đề xuất]
+    Step3 --> Display[Hiện danh sách slide cần ôn: Slide 12 -> Slide 18<br/>Kèm lý do: 'Hổng concept nền B']
+    
+    Display --> UserChoice{Học viên chọn hành động}
+    UserChoice -->|Bấm: Bắt đầu học theo lộ trình| Step4[Màn hình 4: Trình xem Slide bài học bù đắp]
+    UserChoice -->|Bấm: Bỏ qua / Học tiếp bài mới| Skip[Tiếp tục bài học chính]
+    
+    Step4 --> End([Kết thúc lát cắt: Nắm vững concept hổng])
+```
