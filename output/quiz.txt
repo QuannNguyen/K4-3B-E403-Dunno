@@ -1,0 +1,20 @@
+QUIZ ÔN TẬP
+========================================
+
+Câu 1: Theo nội dung được cung cấp, ba nhóm AI chính bao gồm những loại nào?
+  A. Phân loại, sinh nội dung, hành động
+  B. Dự đoán, sao chép, tự động hóa
+  C. Nhận diện, dịch thuật, lập trình
+  D. Phân tích, tổng hợp, đánh giá
+
+Câu 2: Đặc điểm nào sau đây mô tả đúng về Agentic AI (AI có khả năng hành động) dựa trên nội dung?
+  A. Giỏi phân loại và dự đoán như lọc spam
+  B. Sinh ra các nội dung mới như văn bản và ảnh
+  C. Nhận mục tiêu rồi tự làm nhiều bước
+  D. Chỉ tập trung vào việc nhận diện gian lận
+
+Câu 3: Các ứng dụng nào sau đây thuộc về nhóm AI giỏi phân loại và dự đoán (Discriminative AI)?
+  A. Sinh ra văn bản và code
+  B. Lọc spam, phát hiện gian lận, nhận diện ảnh
+  C. Tự động thực hiện nhiều bước theo mục tiêu
+  D. Tạo ra các hình ảnh mới

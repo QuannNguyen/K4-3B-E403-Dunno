@@ -1,0 +1,1275 @@
+{
+  "status": "success",
+  "document_path": "data\\d1-slide-hackathon.pdf",
+  "page_count": 29,
+  "chunk_count": 11,
+  "concepts": [
+    {
+      "id": "concept-1",
+      "name": "AI IN ACTION - Day 1",
+      "type": "concept",
+      "definition": "AI IN ACTION - Day 1",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-2",
+      "name": "BạnđangdùngAImỗingày—nhưngthựcsựbêntrongnóđanglàmgì?",
+      "type": "concept",
+      "definition": "BạnđangdùngAImỗingày—nhưngthựcsựbêntrongnóđanglàmgì?",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-3",
+      "name": "HACKATHON",
+      "type": "concept",
+      "definition": "HACKATHON",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-4",
+      "name": "ACTION      IN    AI",
+      "type": "concept",
+      "definition": "ACTION      IN    AI",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-5",
+      "name": "AI IN ACTION - Day 1",
+      "type": "concept",
+      "definition": "AI IN ACTION - Day 1",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-6",
+      "name": "Ba nhóm AI chính: phân loại · sinh nội dung · hành động",
+      "type": "concept",
+      "definition": "Ba nhóm AI chính: phân loại · sinh nội dung · hành động",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-7",
+      "name": "Discriminative AI                     Generative AI                        Agent",
+      "type": "concept",
+      "definition": "Discriminative AI                     Generative AI                        Agentic AI",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-8",
+      "name": "Giỏi phân loại, dự đoán: lọc spam, phát        Sinh ra thứ mới: văn bản, ảnh, co",
+      "type": "concept",
+      "definition": "Giỏi phân loại, dự đoán: lọc spam, phát        Sinh ra thứ mới: văn bản, ảnh, code.",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-9",
+      "name": "Nhận mục tiêu rồi tự làm nhiều bước",
+      "type": "concept",
+      "definition": "Nhận mục tiêu rồi tự làm nhiều bước",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-10",
+      "name": "hiện gian lận, nhận diện ảnh.",
+      "type": "concept",
+      "definition": "hiện gian lận, nhận diện ảnh.",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-11",
+      "name": "HACKATHON",
+      "type": "concept",
+      "definition": "HACKATHON",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-12",
+      "name": "ACTION      IN     AI                                             ChatGPT xuất h",
+      "type": "concept",
+      "definition": "ACTION      IN     AI                                             ChatGPT xuất hiện như một trải nghiệm đại chúng",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-13",
+      "name": "Lần đầu tiên rất đông người dùng phổ thông có thể trực tiếp",
+      "type": "concept",
+      "definition": "Lần đầu tiên rất đông người dùng phổ thông có thể trực tiếp",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-14",
+      "name": "chạm vào một mô hình ngôn ngữ mạnh, thông qua một giao",
+      "type": "concept",
+      "definition": "chạm vào một mô hình ngôn ngữ mạnh, thông qua một giao",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-15",
+      "name": "diện đơn giản đến mức ai cũng hiểu cách dùng",
+      "type": "concept",
+      "definition": "diện đơn giản đến mức ai cũng hiểu cách dùng",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-16",
+      "name": "Token: model không đọc \"từ\", model đọc mảnh chữ",
+      "type": "concept",
+      "definition": "Token: model không đọc \"từ\", model đọc mảnh chữ",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-17",
+      "name": "Model không nhìn từ nguyên vẹn.",
+      "type": "concept",
+      "definition": "Model không nhìn từ nguyên vẹn.",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-18",
+      "name": "thành các mảnh nhỏ gọi là token: có từ là một mảnh,",
+      "type": "concept",
+      "definition": "thành các mảnh nhỏ gọi là token: có từ là một mảnh,",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-19",
+      "name": "có từ vỡ ba bốn mảnh, cả dấu câu và khoảng trắng",
+      "type": "concept",
+      "definition": "có từ vỡ ba bốn mảnh, cả dấu câu và khoảng trắng",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-20",
+      "name": "Ví dụ: \"Helloworld\" ≈ 2 token, nhưng \"Xinchào\" có",
+      "type": "concept",
+      "definition": "Ví dụ: \"Helloworld\" ≈ 2 token, nhưng \"Xinchào\" có",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-21",
+      "name": "Tham số (parameter): những \"khớp nối\" model học được",
+      "type": "concept",
+      "definition": "Tham số (parameter): những \"khớp nối\" model học được",
+      "source_pages": [
+        17,
+        18
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-22",
+      "name": "Sau khi luyện xong, những gì model \"biết\" nằm trong các con số cố định bên trong",
+      "type": "concept",
+      "definition": "Sau khi luyện xong, những gì model \"biết\" nằm trong các con số cố định bên trong gọi là tham số — hãy hình dung",
+      "source_pages": [
+        17,
+        18
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-23",
+      "name": "như khớp nối thần kinh: luyện càng kỹ, các khớp nối càng được siết đúng.",
+      "type": "concept",
+      "definition": "như khớp nối thần kinh: luyện càng kỹ, các khớp nối càng được siết đúng.",
+      "source_pages": [
+        17,
+        18
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-24",
+      "name": "Tham số không phải thứ bạn chỉnh khi dùng model — nó được đóng gói sẵn trong \"bộ",
+      "type": "concept",
+      "definition": "Tham số không phải thứ bạn chỉnh khi dùng model — nó được đóng gói sẵn trong \"bộ não\" (file weights).",
+      "source_pages": [
+        17,
+        18
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-25",
+      "name": "chỉnh được context và các núm vặn lúc gọi (như temperature).",
+      "type": "concept",
+      "definition": "chỉnh được context và các núm vặn lúc gọi (như temperature).",
+      "source_pages": [
+        17,
+        18
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-26",
+      "name": "RLHF: ba bước uốn cỗ máy đoán token thành trợ lý biết nghe lời",
+      "type": "concept",
+      "definition": "RLHF: ba bước uốn cỗ máy đoán token thành trợ lý biết nghe lời",
+      "source_pages": [
+        19,
+        20
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-27",
+      "name": "① Model viết nhiều câu trả lời      ② Người chấm xếp hạng        ③ Huấn luyện th",
+      "type": "concept",
+      "definition": "① Model viết nhiều câu trả lời      ② Người chấm xếp hạng        ③ Huấn luyện theo điểm",
+      "source_pages": [
+        19,
+        20
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-28",
+      "name": "«Cùng một câu hỏi»                               Trả lời B",
+      "type": "concept",
+      "definition": "«Cùng một câu hỏi»                               Trả lời B                           1                      LLM",
+      "source_pages": [
+        19,
+        20
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-29",
+      "name": "↓                                                     ↓",
+      "type": "concept",
+      "definition": "↓                                                     ↓",
+      "source_pages": [
+        19,
+        20
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-30",
+      "name": "Trả lời D                  2",
+      "type": "concept",
+      "definition": "Trả lời D                  2",
+      "source_pages": [
+        19,
+        20
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-31",
+      "name": "Vì sao model vẫn sai: nó rất giỏi học vẹt đường tắt",
+      "type": "concept",
+      "definition": "Vì sao model vẫn sai: nó rất giỏi học vẹt đường tắt",
+      "source_pages": [
+        21,
+        22
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-32",
+      "name": "1 Phân loại spam                            2 Câu chủ quan vs khách quan",
+      "type": "concept",
+      "definition": "1 Phân loại spam                            2 Câu chủ quan vs khách quan           3 Suy luận ngôn ngữ (MNLI)",
+      "source_pages": [
+        21,
+        22
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-33",
+      "name": "Model thực chất đã học:                        Model thực chất đã học:",
+      "type": "concept",
+      "definition": "Model thực chất đã học:                        Model thực chất đã học:                        Model thực chất đã học",
+      "source_pages": [
+        21,
+        22
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-34",
+      "name": "“đếm số hyperlink trong email”        “có phải câu trích từ film review       “c",
+      "type": "concept",
+      "definition": "“đếm số hyperlink trong email”        “có phải câu trích từ film review       “câu có động từ phủ định”",
+      "source_pages": [
+        21,
+        22
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-35",
+      "name": "Emailsạchnhưngnhiềulink→vẫnbịgán       không”                                Đổi",
+      "type": "concept",
+      "definition": "Emailsạchnhưngnhiềulink→vẫnbịgán       không”                                Đổicấutrúcdữliệutestlàđiểmtụtngay",
+      "source_pages": [
+        21,
+        22
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-36",
+      "name": "Từ LLM đến agent: bốn mức độ — mỗi bậc thêm một năng lực",
+      "type": "concept",
+      "definition": "Từ LLM đến agent: bốn mức độ — mỗi bậc thêm một năng lực",
+      "source_pages": [
+        23,
+        24,
+        25
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-37",
+      "name": "mứctựchủ&tácđộngthậttăngdần→",
+      "type": "concept",
+      "definition": "mứctựchủ&tácđộngthậttăngdần→",
+      "source_pages": [
+        23,
+        24,
+        25
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-38",
+      "name": "LEVEL 3               HACKATHON           -                         Đội agent ph",
+      "type": "concept",
+      "definition": "LEVEL 3               HACKATHON           -                         Đội agent phối hợp",
+      "source_pages": [
+        23,
+        24,
+        25
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-39",
+      "name": "+ nhiều agent chuyên biệt chia",
+      "type": "concept",
+      "definition": "+ nhiều agent chuyên biệt chia",
+      "source_pages": [
+        23,
+        24,
+        25
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-40",
+      "name": "việc như một đội ngũ (multi",
+      "type": "concept",
+      "definition": "việc như một đội ngũ (multi",
+      "source_pages": [
+        23,
+        24,
+        25
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-41",
+      "name": "Chọn model theo TẦNG, không chọn theo tên",
+      "type": "concept",
+      "definition": "Chọn model theo TẦNG, không chọn theo tên",
+      "source_pages": [
+        26
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-42",
+      "name": "VIỆC CỦA BẠN                                                   TẦNG MODEL",
+      "type": "concept",
+      "definition": "VIỆC CỦA BẠN                                                   TẦNG MODEL",
+      "source_pages": [
+        26
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-43",
+      "name": "TẦNG 1 — FRONTIER ĐÓNG   Việc đơn giản, khối lượng lớn",
+      "type": "concept",
+      "definition": "TẦNG 1 — FRONTIER ĐÓNG   Việc đơn giản, khối lượng lớn",
+      "source_pages": [
+        26
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-44",
+      "name": "Fable 5 · GPT-5.6 Sol · Opus 4.8   phân loại · trích xuất · tóm tắt ngắn",
+      "type": "concept",
+      "definition": "Fable 5 · GPT-5.6 Sol · Opus 4.8   phân loại · trích xuất · tóm tắt ngắn",
+      "source_pages": [
+        26
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-45",
+      "name": "đắt nhất — chỉ trả cho việc thật sự khó",
+      "type": "concept",
+      "definition": "đắt nhất — chỉ trả cho việc thật sự khó",
+      "source_pages": [
+        26
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-46",
+      "name": "Token có giá: vé vào rẻ, vé ra đắt gấp 3–5 lần",
+      "type": "concept",
+      "definition": "Token có giá: vé vào rẻ, vé ra đắt gấp 3–5 lần",
+      "source_pages": [
+        27,
+        28
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-47",
+      "name": "HÓA ĐƠN — 1 LẦN GỌI API",
+      "type": "concept",
+      "definition": "HÓA ĐƠN — 1 LẦN GỌI API",
+      "source_pages": [
+        27,
+        28
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-48",
+      "name": "VÉ VÀO — INPUT               VÉ RA — OUTPUT",
+      "type": "concept",
+      "definition": "VÉ VÀO — INPUT               VÉ RA — OUTPUT",
+      "source_pages": [
+        27,
+        28
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-49",
+      "name": "input  1.150 tok × $3 / 1M         $0.00345",
+      "type": "concept",
+      "definition": "input  1.150 tok × $3 / 1M         $0.00345",
+      "source_pages": [
+        27,
+        28
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-50",
+      "name": "×1        ×3–5                    output   200 tok × $15 / 1M        $0.00300",
+      "type": "concept",
+      "definition": "×1        ×3–5                    output   200 tok × $15 / 1M        $0.00300",
+      "source_pages": [
+        27,
+        28
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-51",
+      "name": "Hai núm vặn chọn từ: temperature & top_p",
+      "type": "concept",
+      "definition": "Hai núm vặn chọn từ: temperature & top_p",
+      "source_pages": [
+        29
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-52",
+      "name": "temperature — “núm vặn độ liều”                          top_p — “chỉ xem top đầ",
+      "type": "concept",
+      "definition": "temperature — “núm vặn độ liều”                          top_p — “chỉ xem top đầu bảng” (p = 0.9)",
+      "source_pages": [
+        29
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-53",
+      "name": "Cùng một câu: “Mộttách___” — bảng xác suất đổi theo T",
+      "type": "concept",
+      "definition": "Cùng một câu: “Mộttách___” — bảng xác suất đổi theo T                              ① Bảng xác suất gốc           ② Bảng mới",
+      "source_pages": [
+        29
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-54",
+      "name": "T = 0                                                   luôn chọn từ chắc nhất",
+      "type": "concept",
+      "definition": "T = 0                                                   luôn chọn từ chắc nhất          giữ nhóm cộng dồn ≥ 90%",
+      "source_pages": [
+        29
+      ],
+      "mastery": 0.0
+    },
+    {
+      "id": "concept-55",
+      "name": "→ ổn định, lặp lại, hợp              →",
+      "type": "concept",
+      "definition": "→ ổn định, lặp lại, hợp              →",
+      "source_pages": [
+        29
+      ],
+      "mastery": 0.0
+    }
+  ],
+  "relationships": [],
+  "relations": [],
+  "graph": {
+    "nodes": [
+      {
+        "id": "concept-1",
+        "name": "AI IN ACTION - Day 1",
+        "type": "concept",
+        "source_pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "concept-2",
+        "name": "BạnđangdùngAImỗingày—nhưngthựcsựbêntrongnóđanglàmgì?",
+        "type": "concept",
+        "source_pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "concept-3",
+        "name": "HACKATHON",
+        "type": "concept",
+        "source_pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "concept-4",
+        "name": "ACTION      IN    AI",
+        "type": "concept",
+        "source_pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "concept-5",
+        "name": "AI IN ACTION - Day 1",
+        "type": "concept",
+        "source_pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "concept-6",
+        "name": "Ba nhóm AI chính: phân loại · sinh nội dung · hành động",
+        "type": "concept",
+        "source_pages": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "concept-7",
+        "name": "Discriminative AI                     Generative AI                        Agent",
+        "type": "concept",
+        "source_pages": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "concept-8",
+        "name": "Giỏi phân loại, dự đoán: lọc spam, phát        Sinh ra thứ mới: văn bản, ảnh, co",
+        "type": "concept",
+        "source_pages": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "concept-9",
+        "name": "Nhận mục tiêu rồi tự làm nhiều bước",
+        "type": "concept",
+        "source_pages": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "concept-10",
+        "name": "hiện gian lận, nhận diện ảnh.",
+        "type": "concept",
+        "source_pages": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "concept-11",
+        "name": "HACKATHON",
+        "type": "concept",
+        "source_pages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "concept-12",
+        "name": "ACTION      IN     AI                                             ChatGPT xuất h",
+        "type": "concept",
+        "source_pages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "concept-13",
+        "name": "Lần đầu tiên rất đông người dùng phổ thông có thể trực tiếp",
+        "type": "concept",
+        "source_pages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "concept-14",
+        "name": "chạm vào một mô hình ngôn ngữ mạnh, thông qua một giao",
+        "type": "concept",
+        "source_pages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "concept-15",
+        "name": "diện đơn giản đến mức ai cũng hiểu cách dùng",
+        "type": "concept",
+        "source_pages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "concept-16",
+        "name": "Token: model không đọc \"từ\", model đọc mảnh chữ",
+        "type": "concept",
+        "source_pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": "concept-17",
+        "name": "Model không nhìn từ nguyên vẹn.",
+        "type": "concept",
+        "source_pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": "concept-18",
+        "name": "thành các mảnh nhỏ gọi là token: có từ là một mảnh,",
+        "type": "concept",
+        "source_pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": "concept-19",
+        "name": "có từ vỡ ba bốn mảnh, cả dấu câu và khoảng trắng",
+        "type": "concept",
+        "source_pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": "concept-20",
+        "name": "Ví dụ: \"Helloworld\" ≈ 2 token, nhưng \"Xinchào\" có",
+        "type": "concept",
+        "source_pages": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": "concept-21",
+        "name": "Tham số (parameter): những \"khớp nối\" model học được",
+        "type": "concept",
+        "source_pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "concept-22",
+        "name": "Sau khi luyện xong, những gì model \"biết\" nằm trong các con số cố định bên trong",
+        "type": "concept",
+        "source_pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "concept-23",
+        "name": "như khớp nối thần kinh: luyện càng kỹ, các khớp nối càng được siết đúng.",
+        "type": "concept",
+        "source_pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "concept-24",
+        "name": "Tham số không phải thứ bạn chỉnh khi dùng model — nó được đóng gói sẵn trong \"bộ",
+        "type": "concept",
+        "source_pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "concept-25",
+        "name": "chỉnh được context và các núm vặn lúc gọi (như temperature).",
+        "type": "concept",
+        "source_pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "concept-26",
+        "name": "RLHF: ba bước uốn cỗ máy đoán token thành trợ lý biết nghe lời",
+        "type": "concept",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "concept-27",
+        "name": "① Model viết nhiều câu trả lời      ② Người chấm xếp hạng        ③ Huấn luyện th",
+        "type": "concept",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "concept-28",
+        "name": "«Cùng một câu hỏi»                               Trả lời B",
+        "type": "concept",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "concept-29",
+        "name": "↓                                                     ↓",
+        "type": "concept",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "concept-30",
+        "name": "Trả lời D                  2",
+        "type": "concept",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "concept-31",
+        "name": "Vì sao model vẫn sai: nó rất giỏi học vẹt đường tắt",
+        "type": "concept",
+        "source_pages": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "concept-32",
+        "name": "1 Phân loại spam                            2 Câu chủ quan vs khách quan",
+        "type": "concept",
+        "source_pages": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "concept-33",
+        "name": "Model thực chất đã học:                        Model thực chất đã học:",
+        "type": "concept",
+        "source_pages": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "concept-34",
+        "name": "“đếm số hyperlink trong email”        “có phải câu trích từ film review       “c",
+        "type": "concept",
+        "source_pages": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "concept-35",
+        "name": "Emailsạchnhưngnhiềulink→vẫnbịgán       không”                                Đổi",
+        "type": "concept",
+        "source_pages": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "concept-36",
+        "name": "Từ LLM đến agent: bốn mức độ — mỗi bậc thêm một năng lực",
+        "type": "concept",
+        "source_pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "id": "concept-37",
+        "name": "mứctựchủ&tácđộngthậttăngdần→",
+        "type": "concept",
+        "source_pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "id": "concept-38",
+        "name": "LEVEL 3               HACKATHON           -                         Đội agent ph",
+        "type": "concept",
+        "source_pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "id": "concept-39",
+        "name": "+ nhiều agent chuyên biệt chia",
+        "type": "concept",
+        "source_pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "id": "concept-40",
+        "name": "việc như một đội ngũ (multi",
+        "type": "concept",
+        "source_pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "id": "concept-41",
+        "name": "Chọn model theo TẦNG, không chọn theo tên",
+        "type": "concept",
+        "source_pages": [
+          26
+        ]
+      },
+      {
+        "id": "concept-42",
+        "name": "VIỆC CỦA BẠN                                                   TẦNG MODEL",
+        "type": "concept",
+        "source_pages": [
+          26
+        ]
+      },
+      {
+        "id": "concept-43",
+        "name": "TẦNG 1 — FRONTIER ĐÓNG   Việc đơn giản, khối lượng lớn",
+        "type": "concept",
+        "source_pages": [
+          26
+        ]
+      },
+      {
+        "id": "concept-44",
+        "name": "Fable 5 · GPT-5.6 Sol · Opus 4.8   phân loại · trích xuất · tóm tắt ngắn",
+        "type": "concept",
+        "source_pages": [
+          26
+        ]
+      },
+      {
+        "id": "concept-45",
+        "name": "đắt nhất — chỉ trả cho việc thật sự khó",
+        "type": "concept",
+        "source_pages": [
+          26
+        ]
+      },
+      {
+        "id": "concept-46",
+        "name": "Token có giá: vé vào rẻ, vé ra đắt gấp 3–5 lần",
+        "type": "concept",
+        "source_pages": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "concept-47",
+        "name": "HÓA ĐƠN — 1 LẦN GỌI API",
+        "type": "concept",
+        "source_pages": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "concept-48",
+        "name": "VÉ VÀO — INPUT               VÉ RA — OUTPUT",
+        "type": "concept",
+        "source_pages": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "concept-49",
+        "name": "input  1.150 tok × $3 / 1M         $0.00345",
+        "type": "concept",
+        "source_pages": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "concept-50",
+        "name": "×1        ×3–5                    output   200 tok × $15 / 1M        $0.00300",
+        "type": "concept",
+        "source_pages": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "concept-51",
+        "name": "Hai núm vặn chọn từ: temperature & top_p",
+        "type": "concept",
+        "source_pages": [
+          29
+        ]
+      },
+      {
+        "id": "concept-52",
+        "name": "temperature — “núm vặn độ liều”                          top_p — “chỉ xem top đầ",
+        "type": "concept",
+        "source_pages": [
+          29
+        ]
+      },
+      {
+        "id": "concept-53",
+        "name": "Cùng một câu: “Mộttách___” — bảng xác suất đổi theo T",
+        "type": "concept",
+        "source_pages": [
+          29
+        ]
+      },
+      {
+        "id": "concept-54",
+        "name": "T = 0                                                   luôn chọn từ chắc nhất",
+        "type": "concept",
+        "source_pages": [
+          29
+        ]
+      },
+      {
+        "id": "concept-55",
+        "name": "→ ổn định, lặp lại, hợp              →",
+        "type": "concept",
+        "source_pages": [
+          29
+        ]
+      }
+    ],
+    "edges": []
+  },
+  "chunks": [
+    {
+      "text": "AI IN ACTION - Day 1\n\n\nAI & LLM Foundation\n\nBạnđangdùngAImỗingày—nhưngthựcsựbêntrongnóđanglàmgì?              HACKATHON           -\n        ACTION      IN    AI\nAI IN ACTION - Day 1\n\nAgenda\n\n\n • Bức tranh AI & các tầng của AI\n\n • Lịch sử AI 70 năm\n • Bên trong LLM: cơ chế vận hành              HACKATHON • Từ LLM đến AI Agent           -\n • Landscape: model hôm nay & cuộc đua hiện tại\n\n • Chọn model & chi phí token\n\n • Gọi API lần đầu        ACTION\n • Tổng kết — những ý để mang về      IN    AI\nAI & LLM Foundation\nTừ\"ngheAI\"đến\"gọiAI\"trongmộtngày\nAI, ML, Deep Learning, GenAI, LLM — nằm ở đâu trong cùng một hệ?\n\n\n từrộngđếnhẹp\n\n                                                                                                  AI — chiếc ô lớn nhất: mọi hệ thống có yếu tố                             ARTIFICIAL INTELLIGENCE\n                                                                                                “thông minh”.\n\n                             MACHINE LEARNING\n                                                                                    Machine learning — học từ dữ liệu thay vì viết\n                                  DEEP LEARNING                                               luật tay.\n\n\n                                     GENERATIVE AI\n                                                                                Deep learning — mạng nơ-ron nhiều tầng tự học\n                                                                                       đặc trưng.               HACKATHON                      LLM  -\n                                               GPT · Claude · Kimi                                       Generative AI — sinh nội dung mới: văn bản,\n                                                                                                    ảnh, code.\n\n\n                                       vănbản·ảnh·code                             LLM — model nền chuyên ngôn ngữ, tim của làn         ACTION                         sóng hiện nay.\n                                      nhậndiệnảnh·giọngnói      IN\n\n                                             lọcspam·gợiýphim     AI\n                                                                  LLM không phải toàn bộ AI — nhưng nó là tầng\n                                    kểcảhệluậttay,robot…                        nền của gần hết trải nghiệm AI bạn dùng hôm nay",
+      "pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ba nhóm AI chính: phân loại · sinh nội dung · hành động\n\n\n  Discriminative AI                     Generative AI                        Agentic AI\n   Giỏi phân loại, dự đoán: lọc spam, phát        Sinh ra thứ mới: văn bản, ảnh, code.         Nhận mục tiêu rồi tự làm nhiều bước:\n  hiện gian lận, nhận diện ảnh.                 ChatGPT, Claude, Midjourney.                  lập kế hoạch, dùng công cụ, hành động.\n\n  Input→mộtnhãn,mộtconsố             Prompt→nộidungmới                   Goal→Plan→Action               HACKATHON           -\n         ACTION           LLMlàenginechungcủacảGenerativelẫnAgentic—cuốibuổisángmìnhsẽthấyagentkhácLLMở\n                                              đâu      IN     AI\n\n\n\n\n\nHành trình khóa học: LLM Foundation → Agent → Multi-Agent → Deploy → Evaluate\nLịch sử AI 70 năm\n               HACKATHON           -\n\nKhaisinh,lờihứađầu\n        tiên         ACTION      IN     AI\n\n                                                                           Từ model đơn lẻ sang system                       2 lần mùa đông, cách tiếp cận chạm trần\n                                                                              có khả năng hành động như\n                                                                                               agent\n1980: Hệ chuyên gia (expert system)\n               HACKATHON           -\n         ACTION      IN     AI                     Đặt lại vấn đề: \"NếuAIchỉgiảithậttốtmộtloạibàitoánchuyênmônhẹpthìsao?\"\n            → Sự ra đời của expert systems\n\n                        AI đổi chiến lược: thôi theo đuổi trí tuệ tổng quát và tập trung giải thật tốt một miền hẹp bằng\n                    cách mã hóa tri thức chuyên gia thành luật\n2009: Fei-Fei Li và ImageNet — cuộc cách mạng của dữ liệu\n               HACKATHON           -\n         ACTION      IN\n                    Trong khi cả ngành chạy theo thuật toán thông minh hơn, Fei-Fei Li chọn con đường khác: xây bộ     AI\n                 dữ liệu lớn hơn — 14 triệu ảnh được gán nhãn tay, hơn 20.000 loại vật.\n\n                   Ba năm sau, chính bộ dữ liệu đó là sân khấu cho cú nổ AlexNet 2012 → bài học định hình cả kỷ\n                     nguyên: đôi khi dữ liệu tốt hơn đánh bại thuật toán khôn hơn.\nDeng, J. et al. (2009), “ImageNet: A Large-Scale Hierarchical Image Database”, CVPR — doi.org/10.1109/CVPR.2009.5206848 · Fei-Fei Li, TED 2015 — ted.com\n2017: Transformer\n               HACKATHON           -\n         ACTION      IN     AI                                                       Transformer là bước ngoặt vì nó cho mô hình hiểu ngôn ngữ theo\n                                                    cách linh hoạt hơn: mỗi từ có thể nhìn sang những từ quan trọng\n                                                   khác trong cả câu, thay vì chỉ đi tuần tự từng bước → trở thành nền\n                                             móng kỹ thuật cho GPT, BERT và toàn bộ làn sóng LLM sau đó.",
+      "pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "text": "2022: ChatGPT\n               HACKATHON           -\n         ACTION      IN     AI                                             ChatGPT xuất hiện như một trải nghiệm đại chúng\n                                                 Lần đầu tiên rất đông người dùng phổ thông có thể trực tiếp\n                                            chạm vào một mô hình ngôn ngữ mạnh, thông qua một giao\n                                                        diện đơn giản đến mức ai cũng hiểu cách dùng\nLLM là gì? — một bộ não nền, không phải một chatbot\n\n\n LLM (Large Language Model) là một mô hình ngôn ngữ rất lớn,                  💬                                                                                                      Chatbot\n  thường dựa trên kiến trúc Transformer, được luyện trên hàng\n                                                                                        1 model nền\n  nghìn tỷ mảnh chữ để học cách đoán mảnh chữ tiếp theo trong                  📝                                                                                          (LLM)             Tóm tắt tài liệu\n ngữ cảnh.                                ⟵\n                                                     💻 Viết code Nhờ được luyện đủ rộng, nó trở thành một nền chung: thay vì\n  mỗi việc train một model riêng, cùng một model làm được rất\n                                                     🌐 Dịch & phân tích  nhiều việc.               HACKATHON  Chatbot chỉ là một dạng sản phẩm đóng gói quanh bộ não-đó —\n  lớp áo bên ngoài.\n         ACTION\n               LLM = bộ não ngôn ngữ dùng chung cho mọi việc — sản phẩm bạn thấy chỉ là lớp áo bên ngoài      IN     AI\n\n\n\n\nModel hiện nay chủ yếu là kiến trúc decoder-only (GPT, Claude, Gemini, Kimi), nhiều model dùng MoE; sau pre-training còn các bước căn chỉnh (SFT, RLHF/DPO) và\nluyện suy luận (reasoning training, từ ~2025).\nBên trong Transformer: đầu ra luôn là một phân bố xác suất\n               HACKATHON           -\n         ACTION      IN     AI\n        Vớimọingữcảnh,modelchấmđiểmMỌItừtrongtừvựng—“land”22%,“forest”9%…—rồichọntheoxácsuấtđó\n\n\n                                                Transformers, the tech behind LLMs - 3Blue1Brown\nSinh văn bản = đoán → nối vào câu → đoán tiếp\n               HACKATHON           -\n         ACTION      IN      Mỗi token mớiAIđược nối vào ngữ cảnh, rồi model chạy lại từ đầu — vòng lặp predict → append → rerun\n\n\n                                                Transformers, the tech behind LLMs - 3Blue1Brown",
+      "pages": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "text": "Token: model không đọc \"từ\", model đọc mảnh chữ\n\n\n  Model không nhìn từ nguyên vẹn. Nó cắt văn bản\n  thành các mảnh nhỏ gọi là token: có từ là một mảnh,\n  có từ vỡ ba bốn mảnh, cả dấu câu và khoảng trắng\n  cũng là mảnh.\n\n  Ví dụ: \"Helloworld\" ≈ 2 token, nhưng \"Xinchào\" có\n  thể tới 3–4 token.\n\n  Tiếng Việt, code, JSON tốn token hơn tiếng Anh               HACKATHON  thường — vì dấu thanh, ký tự đặc biệt và cấu trúc bị -\n  cắt nhỏ ra.\n         ACTION      IN     AI             Mọithứmodellàmđềuquyratoken—vàmỗitokenđềucógiá.Nhớđiềunàykhisangphầnchiphí.\n\n\n\n\n\nThử trực tiếp: platform.openai.com/tokenizer · Số token chính xác phụ thuộc tokenizer của từng model.\nContext: bàn làm việc có hạn của model\n\n\n  Mỗi lần trả lời, model chỉ nhìn được một lượng chữ có\n  hạn — gọi là context. Hãy hình dung một bàn làm việc:\n  mọi thứ muốn model \"thấy\" phải bày lên bàn.\n\n Quy đổi: 128K token ≈ một cuốn sách 300 trang; 1M\n  token ≈ 4–5 cuốn sách trên bàn cùng lúc.\n\n  Bàn đầy quá thì đồ ở giữa bàn dễ bị bỏ sót — đặt điều\n  quan trọng ở giữa một prompt rất dài, model có thể               HACKATHON  \"quên\" mất.        -\n         ACTION      IN     AI                       Context càng dài càng tốn tiền và càng chậm — bàn rộng không có nghĩa là dùng tốt\n\n\n\n\n\nHiện tượng “quên phần giữa”: Liu et al. (2023), “Lost in the Middle” — arxiv.org/abs/2307.03172. Model thế hệ mới đã cải thiện đáng kể nhưng chưa hết hẳn.\nAttention: mỗi từ được “nhìn sang” những từ quan trọng khác\n\n\n  Thay vì đọc tuần tự từng chữ, cơ chế attention cho phép mỗi token:\n\n    Chủ động “quay đầu” nhìn lại các token trước đó trong câu\n    Chấm điểm mức độ liên quan của từng token đối với nghĩa của mình\n    Khóa nghĩa theo ngữ cảnh — “nó” là quyển sách hay cái túi, tùy theo nó chú ý vào từ nào               HACKATHON           -\n\n\n               ĐâychínhlàchữTtrongGPT—vàlàlýdomodelhiểungữcảnhtốthơnhẳncácthếhệtrước         ACTION      IN                      Video minh họa: Attention in transformers, step-by-step - 3Blue1Brown     AI\nHiểu attention để dùng AI hiệu quả: quản context = quản sự chú ý\n\n\n  Attention có hạn và có \"điểm mù\". Vì vậy, cách bạn bày context quyết định model chú ý vào đâu:\n\n\n\n         1  Đặt điều quan trọng đầu – cuối          2 Giữ bàn làm việc sạch                   3 Cho tra sổ thay vì bắt nhớ\n\n    Đầu và cuối prompt được chú ý nhiều           Context rác = attention rác. Khi chat dài,          Tài liệu dài: lấy đoạn liên quan nhét vào\n     nhất; đồ ở giữa dễ bị bỏ sót — yêu cầu         tóm tắt lại thay vì kéo theo mọi thứ; khi          context (RAG) thay vì trông chờ model\n    quan trọng đừng chôn giữa.                     vibe code, đưa đúng file liên quan, không       nhớ hết hoặc nhét cả cuốn.\n                                            dán cả repo.               HACKATHON           -\n         ACTION\n                Agent mạnh không phải vì context khổng lồ — mà vì nó có tools để lấy đúng thứ vào bàn làm việc      IN                  đúng lúc     AI",
+      "pages": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "text": "Tham số (parameter): những \"khớp nối\" model học được\n\n\n  Sau khi luyện xong, những gì model \"biết\" nằm trong các con số cố định bên trong gọi là tham số — hãy hình dung\n  như khớp nối thần kinh: luyện càng kỹ, các khớp nối càng được siết đúng.\n\n Tham số không phải thứ bạn chỉnh khi dùng model — nó được đóng gói sẵn trong \"bộ não\" (file weights). Bạn chỉ\n  chỉnh được context và các núm vặn lúc gọi (như temperature).   2020 — GPT-3          HACKATHON2026 — Kimi K3           -\n  175 tỷ                        2.800 tỷ\n    một \"bác sĩ đa năng\" — mọi token đều đi qua toàn bộ khớp nối          một \"bệnh viện đa khoa\" — mỗi token chỉ gọi vài chuyên gia\n     (dense)                                                        (MoE)\n\n                                             ↓         ACTION                                  loss\n                                                                                                                                                                                     test      IN\n   Nhiềuthamsố≠tốnhơntuyếntính—nhờMoE,bệnhviệnlớngấp16lần          màAIchiphímỗicakhámgầnnhưkhôngđổi\n                                                                                                               compute / dữ liệu (thang log) →\n                                                                                                    Luật chơi 2020–2024: cứ thêm compute + dữ liệu là model khôn lên\n                                                                                     một cách dự đoán được (scaling law, Kaplan et al. 2020)\n\n\nMoE: Shazeer et al. (2017) — arxiv.org/abs/1701.06538 · Kimi K3 (16/7/2026): ~2.8 nghìn tỷ tham số MoE — k3-kimi.com\nLLM được tạo ra như thế nào? — đọc nhiều, được chỉ, được uốn nắn, luyện đề\n               HACKATHON           -\n\n\n\n ① Pre-training — \"đọc cả thư viện\": học tiếng nói và kiến thức từ hàng nghìn tỷ token. ② SFT — \"được chỉ cách trả         ACTION    lời\": học theo ví dụ mẫu để ra dáng trợ lý. ③ RLHF/DPO — \"được uốn nắn\": học theo phản hồi con người, an toàn và\n  dễ chịu hơn. ④ Luyện suy luận — \"giải đề tự chấm\" (từ ~2025): luyện toán/code có đáp án kiểm chứng được →      IN\n  model biết làm nháp trước khi trả lời.     AI\n\n                  Đọc vạn cuốn sách chưa chắc biết trả lời phỏng vấn — đó là lý do cần bước ②, ③, ④\n\n\n\nOuyang et al. (2022), InstructGPT — arxiv.org/abs/2203.02155 · Rafailov et al. (2023), DPO — arxiv.org/abs/2305.18290 · RLVR: RL with verifiable rewards.",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "text": "RLHF: ba bước uốn cỗ máy đoán token thành trợ lý biết nghe lời\n\n\n\n ① Model viết nhiều câu trả lời      ② Người chấm xếp hạng        ③ Huấn luyện theo điểm\n\n     «Cùng một câu hỏi»                               Trả lời B                           1                      LLM\n\n             ↓                                                     ↓\n                                                            Trả lời D                  2\n               LLM                                                                                      câu trả lời vừa viết\n                                                            Trả lời A                  3                                                                  ↓\n\n                                                                                                    điểm: 9.2 / 10          Trả lời A               Trả lời B                    Trả lời C                 4        tăngxácsuất               HACKATHONcâughiđiểm\n                                                                                          cao           -↓\n          Trả lời C               Trả lời D                    REWARD MODEL\n                                                              máy chấm điểm thay người         ACTION      IN       lặp lại hàng nghìn lần → model dần “biết nghe lời”     AI\n\n              Cỗ máy đoán token + điểm xếp hạng của con người → trợ lý helpful · harmless · honest\n\nOuyang et al. (2022), “Training language models to follow instructions with human feedback” (InstructGPT) — arxiv.org/abs/2203.02155 · DPO (cách đơn giản hơn,\n2023) — arxiv.org/abs/2305.18290\nGiới hạn bẩm sinh: học giả trong bong bóng\n\n\n  Bong bóng thời gian                    Nói chắc như đúng rồi                Bàn làm việc có hạn\n\n  Model bị \"đóng băng\" tại ngày ngừng đọc.       Model tối ưu cho câu nghe hợp lý, không         Context có trần; quá dài vừa tốn tiền vừa\n  Chuyện sau đó nó không biết — trừ khi           phải tra sự thật — nên có thể tự tin mà sai        dễ bỏ sót thông tin ở giữa.\n  bạn cung cấp thêm (knowledge cutoff).             (hallucination).\n               HACKATHON           -              \"Whydoesitwork?Wedon'tknow—alothereareintuitions,nottheoremsortruths.\" — Łukasz Kaiser, đồng tác giả\n                        \"Attention Is All You Need\" (OpenAI)\n\n\n\n        Đâykhôngphảilỗitạmthời—đólàbảnchấtcủacỗmáyđoántoken.Vìvậytacầnprompttốt,contextsạch,tra         ACTION                                 sổ(RAG),tools,vàluônkiểmchứng.      IN     AI\n\n\n\n\n\n“Biết nhiều” khác “làm được”: dữ liệu mới và hành động thật cần tools/retrieval/workflow — nền của các ngày sau.",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "text": "Vì sao model vẫn sai: nó rất giỏi học vẹt đường tắt\n\n\n      1 Phân loại spam                            2 Câu chủ quan vs khách quan           3 Suy luận ngôn ngữ (MNLI)\n   Model thực chất đã học:                        Model thực chất đã học:                        Model thực chất đã học:\n  “đếm số hyperlink trong email”        “có phải câu trích từ film review       “câu có động từ phủ định”\n   Emailsạchnhưngnhiềulink→vẫnbịgán       không”                                Đổicấutrúcdữliệutestlàđiểmtụtngay\n  spam\n                                 Ăngianbằngnguồngốccâu,khôngphải\n                                              nộidungcâu               HACKATHON\nBa “đường tắt” (spurious cues) trên do chính LLM tự động phát hiện và mô tả bằng ngôn ngữ tự nhiên — trên quy mô 675 bài toán           -\nthật của benchmark OpenD5.\n            Benchmarkcao≠ACTIONmodelhiểuđúngthứbạntưởng—luôntesttrêndữliệucủachính\n                                       mình      IN     AI\n\n\n\n\nZhong, Snell, Klein & Steinhardt (2022), “Describing Differences between Text Distributions with Natural Language”, ICML 2022 · Zhong et al. (2023), “Goal Driven\nDiscovery of Distributional Differences via Language Descriptions” (OpenD5), NeurIPS 2023\nChain-of-Thought: chỉ thêm \"giấy nháp\", từ sai thành đúng\n\n\n Bàitoán:\"Có5quảbóngtennis.Muathêm2hộp,mỗihộp3quả.Hỏitổngcộngcóbaonhiêuquả?\"\n\n\n\n   Không có nháp — trả lời ngay                               Có giấy nháp — \"hãy nghĩ từng bước\"\n\n   Model đọc câu hỏi → bật ra đáp án ngay:                               \"Bắt đầu có 5 quả.\n   \"Đáp án là 27 quả.\"                                          Mỗi hộp 3 quả × 2 hộp = 6 quả.\n                                                                 5 + 6 = 11.\n  ✗ SAI\n                                                                 Đáp án là 11 quả.\"\n\n                                     ✓ ĐÚNG               HACKATHON           -\n         ACTION\n               Cùng một model, cùng một câu hỏi — cho nó được viết nháp từng bước, bản chất suy luận lộ ra      IN     AI\n\n\n\n\nWei et al. (2022), “Chain-of-Thought Prompting Elicits Reasoning in Large Language Models” — arxiv.org/abs/2201.11903 · Đây là mầm của các reasoning model (o1,\nR1...) và của test-time compute ở các slide sau.",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "text": "Từ LLM đến agent: bốn mức độ — mỗi bậc thêm một năng lực\n\n\n\n\n\n                                          mứctựchủ&tácđộngthậttăngdần→\n\n\n\n\n\n                                                                                                 LEVEL 3               HACKATHON           -                         Đội agent phối hợp\n                                                                                              + nhiều agent chuyên biệt chia\n                                                                  LEVEL 2\n                                                                                                                               việc như một đội ngũ (multi-\n                                                                Biết lập kế hoạch                                                                                                                          agent)\n                                                               + tự chia mục tiêu thành nhiều\n                                  LEVEL 1\n                                                                               bước, dùng nhiều tool nối tiếp, tự\n                        Có kết nối         ACTION    kiểm tra kết quả từng bước\n   LEVEL 0                        + tools: search web, đọc      INdatabase, gọi API — vượt khỏi  Bộ não suy luận\n                                    bong bóng thời gian\n   LLM trần — không công cụ,     AI\n   không dữ liệu mới\n\n\n              Agentkhôngphải“mộtloạimodelkhác”—đólàLLMđượcđặtvàovònglàmviệccómụctiêu\n                                      vàhànhđộng\nGiải phẫu một agent: 5 bộ phận là một vòng lặp\n\n\n\n                    ① Goal\n                                                      mục tiêu cần đạt\n\n\n\n                                                                          ghi / đọc\n                     Memory                           ② Reasoning                              sổ tay ghi nhớ các bước\n                                                                                        bộ não LLM chia bước               HACKATHON           -\n                                                 vònglặp\n                                                        agent\n\n\n                                            quansátkếtquả→lặplại         ACTION                          ③ Tools             ④ Action                                                                                       search · API · database ·      IN hành động ra đời thật                                                                                      code     AI\n\n\n              Agent = Goal + Reasoning + Tools + Memory + Action — chạy thành vòng lặp cho tới khi\n                                             xong việc\nCùng một mức năng lực, giá rơi khoảng 10 lần mỗi năm\n               HACKATHON           -\n         ACTION      IN     AI\n\n\n\n                           Việc năm ngoái phải dùng model đắt nhất — năm nay model rẻ đã làm được\nTổng hợp từ bảng giá các nhà cung cấp, 2023–2026.",
+      "pages": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "text": "Chọn model theo TẦNG, không chọn theo tên\n\n\n VIỆC CỦA BẠN                                                   TẦNG MODEL\n\n\n                                                                    TẦNG 1 — FRONTIER ĐÓNG   Việc đơn giản, khối lượng lớn\n                                                                                             Fable 5 · GPT-5.6 Sol · Opus 4.8   phân loại · trích xuất · tóm tắt ngắn\n                                                                                                            đắt nhất — chỉ trả cho việc thật sự khó\n\n\n   Việc hàng ngày\n                                                       ★ MẶC ĐỊNH THỬ TẦNG NÀY TRƯỚC    viết · code · phân tích công việc · automation\n\n                                                                    TẦNG 2 — RẺ MÀ MẠNH\n                                                                                      Sonnet 4.6 · Terra · Gemini 3.1 Pro · Kimi K3 · Haiku ·               HACKATHON\n                                                                                               Flash   Việc khó nhất        -                                                                                                                                   giải quyết đa số việc hằng ngày\n   suy luận nhiều bước · code phức tạp · tài liệu dài · độ\n     tin cậy cao\n\n\n   Việc cần kiểm soát                                                                    TẦNG 3 — SELF-HOST / SIÊU RẺ   dữ liệu nhạy cảm · chi phí ở quy mô lớn ACTION\n                                                                                            Kimi K3 open-weight · DeepSeek · Qwen\n                                                                                                                      khi cần kiểm soát dữ liệu hoặc chi phí quy mô lớn      IN Hai lỗi đối xứng:  AI\n ✗ việc đơn giản mà gọi frontier → phí tiền\n ✗ việc khó mà cố dùng rẻ → kết quả tệ                              Bắtđầutừmodelđủtốtvàđủrẻ—chỉnângtầngkhikếtquảthựcsự\n                                                                         chặnusecase",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "text": "Token có giá: vé vào rẻ, vé ra đắt gấp 3–5 lần\n\n\n\n                                                     HÓA ĐƠN — 1 LẦN GỌI API\n   VÉ VÀO — INPUT               VÉ RA — OUTPUT\n\n                                                                input  1.150 tok × $3 / 1M         $0.00345\n ×1        ×3–5                    output   200 tok × $15 / 1M        $0.00300\n   chữ BẠN gửi đi:                    chữ MODEL viết ra — nó phải\n    prompt · system instruction ·            tự sinh từng mảnh một, vừa           TỔNG                        ≈ $0.0065\n    context · lịch sử chat               chậm vừa tốn\n                                                                           sốliệuvídụ—giáthậttùymodel&nhàcungcấp               HACKATHON           -\n   rẻ—modelchỉcầnđọc               đắt—modelphải“vắtóc”\n\n\n\n                                                           Đọc mục usage trong mỗi response — đó là hóa đơn chi tiết         ACTION                                                                         giúp bạn kiểm soát chi phí từ ngày đầu.      IN               InputAItokens + Output tokens = Chi phí mỗi lần gọi — kiểm soát output là núm vặn lớn\n                                                  nhất\nGiải phẫu một prompt: bốn lớp xếp chồng\n\n\n\n\n                                LỚP 1\n                                                                 “Lời dặn đầu ca”: model là ai, cư xử thế        «Bạn là trợ lý y khoa, trả lời                          System\n                                                          nào, không được làm gì                     ngắn gọn, không chẩn đoán…»                                  instruction\n\n\n\n                                LỚP 2            Câu hỏi / yêu cầu của người dùng trong\n                                                                                                 «Tóm tắt báo cáo Q1 giúp mình»\n                            User input          lượt này                                    PHẦN\n         4\n         =               HACKATHON                                LỚP 3\n                                                                 Tài liệu, lịch sử chat, dữ liệu tra sổ — phần     «[đính kèm: bao_cao_q1.pdf — 3                             Context bổ   -\n                                                    bày lên “bàn làm việc”                      đoạn liên quan]»                           sung                                                     PROMPT\n\n         1\n\n\n                                LỚP 4\n                                                Dạng kết quả: gạch đầu dòng? bảng?         «3 bullet + 1 rủi ro chính, tiếng                             Output mong         ACTION                              Việt»                                              JSON? dài bao nhiêu?                       muốn      IN     AI\n\n              Viếtrõcả4lớp=đãlàmtốtmộtnửa“promptengineering”—phầncònlạilàcácngàysau",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "text": "Hai núm vặn chọn từ: temperature & top_p\n\ntemperature — “núm vặn độ liều”                          top_p — “chỉ xem top đầu bảng” (p = 0.9)\nCùng một câu: “Mộttách___” — bảng xác suất đổi theo T                              ① Bảng xác suất gốc           ② Bảng mới\n\nT = 0                                                   luôn chọn từ chắc nhất          giữ nhóm cộng dồn ≥ 90%\n                              → ổn định, lặp lại, hợp              →\n                                                 code & phân tích                                                        cắt &\n                                                                                                         chuẩn hóa lại\n              cà phê         trà      mưa       sao\n\n                                                                                           cà phê      trà    mưa     sao                         cà phê   trà   mưa\nT = 1                                             cân bằng tự nhiên —\n                                                   vẫn ưu tiên từ hợp lý                                                                                       “sao” (đuôi dài xác suất thấp) bị loại khỏi lựa chọn — model chỉ còn chọn               HACKATHON\n                                                                                        trong nhóm đáng tin. Thường chỉ vặn một trong hai: temperature hoặc top_p.           -\n              cà phê         trà      mưa       sao\n\n                                                                          Lưu ý quan trọng: hai núm này không làm model thông minh hơn — chỉ đổi\nT = 2                                            phân bố phẳng ra →\n                                                                            cách chọn từ, không thêm tri thức.\n                                                 đa dạng, “phiêu”, dễ\n                                                               lạc đề         ACTION\n\n              cà phê         trà      mưa       sao      IN     AI\n\n           Mặcđịnhantoàn:temperature=0choviệccầnổnđịnh—chỉtăngkhithậtsựcầnđa\n                                          dạng",
+      "pages": [
+        29
+      ]
+    }
+  ],
+  "metadata": {
+    "pipeline": "pdf -> pages -> chunks -> concepts -> quiz",
+    "save_format": "json"
+  }
+}
