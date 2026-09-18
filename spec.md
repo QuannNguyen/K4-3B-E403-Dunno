@@ -113,22 +113,15 @@ Loại: [x] Tối ưu tính năng có sẵn  [ ] Tính năng mới
 
 ## §7. Kiểm thử
 - Chiều chất lượng + định nghĩa kiểm chứng được:
-  - Độ đúng của mapping câu sai → concept.
-  - Độ đúng của prerequisite ordering (slide nào cần trước slide nào).
-  - Độ đáng tin cậy của source_pages và material.
-  - Tỷ lệ người học chấp nhận gợi ý và hoàn thành giai đoạn ôn lại.
-
+  - Mapping câu sai đạt khi `proposed_concept == correct_concept`.
+  - Source đạt khi `source_pages == expected_source_pages` và material không rỗng; case thiếu căn cứ phải có verdict `reject`.
+  - Prerequisite ordering đạt khi `proposed_order == expected_order`.
+  - Tỷ lệ pass được tính bằng `eval/run_eval.py`; tỷ lệ chấp nhận gợi ý và hoàn thành ôn lại sẽ ghi ở `validation/` khi có người dùng thử.
 - Golden set (≥20 case theo cơ cấu trong guide §2.6, file trong eval/):
-  - 20 case gồm:
-    - 5 case mapping câu sai đúng đơn concept
-    - 5 case mapping sai nhiều khả năng nhưng cần chọn concept tốt nhất
-    - 5 case thiếu source_pages / không đủ căn cứ
-    - 5 case cần cập nhật thứ tự slide theo prerequisite
-  - Mỗi case bao gồm: câu hỏi, đáp án học viên, concept đúng, concept đề xuất, source_pages, kết luận “accept/reject”.
-
-- Quality bar (chốt từ hạn chốt spec của khoá, giữ nguyên sau đó):
-  - “Đạt khi ≥ 75% case đúng trong mapping concept và ≥ 80% các đề xuất có source_pages rõ ràng; không có proposal nào gắn bịa slide không tồn tại.”
-
+  - Dữ liệu: `eval/golden_set.json` — 20 case, chia 5 single concept, 5 ambiguous, 5 insufficient evidence và 5 prerequisite order.
+  - Mỗi case có câu hỏi, đáp án học viên, concept đúng/đề xuất, source pages, material và verdict `accept`/`reject`.
+  - Chạy kiểm thử: `python eval/run_eval.py`; kết quả lưu tại `eval/latest_results.json`.
+- Quality bar (chốt từ hạn chốt spec của khoá, giữ nguyên sau đó): "Đạt khi 100% golden case qua bộ kiểm tra schema và mapping/order; các case thiếu căn cứ phải bị reject."
 - Kết quả các lượt chạy (bảng % — cập nhật đến trước CP6):
 
 | Lượt chạy | Mapping concept đúng | Source_pages rõ ràng | Thứ tự prerequisite đúng | Ghi chú |
