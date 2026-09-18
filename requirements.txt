@@ -1,0 +1,11 @@
+pymupdf 
+python-pptx 
+networkx 
+pydantic 
+openai 
+python-dotenv
+Flask
+langchain
+langchain-core
+langchain-groq
+langgraph
