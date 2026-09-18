@@ -8,10 +8,9 @@
 
 | Họ và Tên | Mã Học Viên | Vai trò chính | Phần việc đảm nhiệm trong dự án |
 |---|---|---|---|
-| Dương Đức Vương | 2A202602944 |  |  |
-| Nguyễn Đức Anh Quân | 2A202602405 |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Dương Đức Vương | 2A202602944 | UI,Slide, Co.Planner | slide, luồng xử lý |
+| Nguyễn Đức Anh Quân | 2A202602405 | Coder, Planner | Thiết kế agent |
+
 
 > Nhóm copy nguyên file README này về repo của mình, rồi điền bảng trên. Cột **Phần việc đảm nhiệm** ghi càng cụ thể càng tốt.
 
