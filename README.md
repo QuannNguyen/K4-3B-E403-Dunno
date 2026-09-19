@@ -8,7 +8,7 @@
 
 | Họ và Tên | Mã Học Viên | Vai trò chính | Phần việc đảm nhiệm trong dự án |
 |---|---|---|---|
-| Dương Đức Vương | 2A202602944 | UI,Slide, Co.Planner | slide, luồng xử lý |
+| Dương Đức Vương | 2A202602944 | UI,Slide, Co.Planner, Coder, Leader | slide, luồng xử lý |
 | Nguyễn Đức Anh Quân | 2A202602405 | Coder, Planner | Thiết kế agent |
 
 
